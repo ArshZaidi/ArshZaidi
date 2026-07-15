@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arsh-raza-zaidi-265826311/)"/>
+    <img src="https://www.linkedin.com/in/arsh-raza-zaidi-265826311/"/>
   </a>
   <a href="YOUR_LEETCODE">
     <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/Arsh_Zaidi)"/>
