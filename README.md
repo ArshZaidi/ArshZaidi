@@ -75,23 +75,10 @@ Beyond technology, I enjoy writing Urdu poetry, exploring mathematics, and shari
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td align="center" valign="middle">
-
-<img src="https://streak-stats.demolab.com/?user=ArshZaidi&theme=dark&hide_border=false" height="200"/>
-
-</td>
-
-<td width="30"></td>
-
-<td align="center" valign="middle">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArshZaidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArshZaidi&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshZaidi&layout=compact&theme=dark" height="180"/>
+</p>
 
 </div>
 
