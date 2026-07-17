@@ -1,3 +1,27 @@
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Hi, I'm <strong>Arsh</strong>- an AI enthusiast, software developer, and startup founder passionate about building technology that creates meaningful impact.
+</p>
+
+<p align="center">
+I'm currently building <strong>MYRAQ.ai</strong>, where I explore the intersection of Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy designing scalable systems, crafting intuitive user experiences, and transforming ambitious ideas into real products.
+</p>
+
+<p align="center">
+My repositories showcase projects in AI, Full-Stack Development, Developer Tools, Automation, and Mathematical Visualizations. Alongside building products, I continuously strengthen my problem-solving skills through Competitive Programming and Open Source.
+</p>
+
+<p align="center">
+Beyond technology, I enjoy writing Urdu poetry, exploring mathematics, and sharing what I learn with the developer community.
+</p>
+
+<p align="center">
+<b>🚀 Always Learning • Always Building • Always Improving</b>
+</p>
+
+
 <div align="center">
 
 ## 🌐 Socials
