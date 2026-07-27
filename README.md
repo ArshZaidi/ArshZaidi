@@ -10,7 +10,7 @@ I'm currently building <strong>MYRAQ.ai</strong>, where I explore the intersecti
 </p>
 
 <p align="center">
-My repositories showcase projects in AI, Full-Stack Development, Developer Tools, Automation, and Mathematical Visualizations. Alongside building products, I continuously strengthen my problem-solving skills through Competitive Programming and Open Source.
+My repositories showcase projects in AI, Full-Stack Development, Developer Tools, and Mathematical Visualizations. Alongside building products, I continuously strengthen my problem-solving skills through Competitive Programming and Open Source.
 </p>
 
 <p align="center">
@@ -105,5 +105,3 @@ Beyond technology, I enjoy writing Urdu poetry, exploring mathematics, and shari
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/ArshZaidi/ArshZaidi/blob/output/github-snake-dark.svg)
-
-the table borders should not be visible
