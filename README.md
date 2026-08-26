@@ -5,33 +5,36 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/portrait?username=ArshZaidi&theme=aurora&style=terminal"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/portrait?username=ArshZaidi&theme=aurora&style=terminal"
-      alt="ArshZaidi portrait"
-      width="40%"
-      height='400'
-    />
-  </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/hero?username=ArshZaidi&theme=satan&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/about?username=ArshZaidi&theme=satan" alt="ArshZaidi about section"
-      alt="ArshZaidi hero section"
-      width="41%"
-      height='400'
-    />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <picture>
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://www.gitskins.com/api/section/portrait?username=ArshZaidi&theme=aurora&style=terminal"
+        />
+        <img
+          src="https://www.gitskins.com/api/section/portrait?username=ArshZaidi&theme=aurora&style=terminal"
+          alt="ArshZaidi portrait"
+          width="80%"
+        />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <picture>
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://www.gitskins.com/api/section/about?username=ArshZaidi&theme=satan&mode=light"
+        />
+        <img
+          src="https://www.gitskins.com/api/section/about?username=ArshZaidi&theme=satan"
+          alt="ArshZaidi about section"
+          width="82%"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
