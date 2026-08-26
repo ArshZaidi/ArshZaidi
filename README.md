@@ -14,7 +14,8 @@
     <img
       src="https://www.gitskins.com/api/section/portrait?username=ArshZaidi&theme=aurora&style=terminal"
       alt="ArshZaidi portrait"
-      width="300"
+      width="40%"
+      height='400'
     />
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,8 +27,8 @@
     <img
       src="https://www.gitskins.com/api/section/about?username=ArshZaidi&theme=satan" alt="ArshZaidi about section"
       alt="ArshZaidi hero section"
-      width="500"
-      height='300'
+      width="41%"
+      height='400'
     />
   </picture>
 </p>
