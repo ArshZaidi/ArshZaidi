@@ -53,6 +53,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ArshZaidi&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=octocat&theme=satan&style=aura" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
